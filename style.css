@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.formContainer {
+  padding: 2rem;
+  border: 1px solid black;
+  border-radius: 12px;
+}
+
+.fundContainer {
+  margin-top: 1rem;
+}
+
+button {
+  border-radius: 12px;
+  background-color: white;
+  cursor: pointer;
+}
